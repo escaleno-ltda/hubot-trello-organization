@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/mohlendo/hubot-trello-organization",
   "dependencies": {
-    "node-trello": "^0.1.5"
+    "node-trello": "^1.1.2"
   }
 }
